@@ -1,0 +1,32 @@
+@charset "utf-8";
+.container footer br {
+}
+.container-fluid {
+    background-image: url(url), -webkit-linear-gradient(270deg,rgba(166,99,100,1.00) 0%,rgba(204,170,170,1.00) 17.62%,rgba(204,170,170,1.00) 84.46%,rgba(166,99,100,1.00) 100%);
+    background-image: url(url), -moz-linear-gradient(270deg,rgba(166,99,100,1.00) 0%,rgba(204,170,170,1.00) 17.62%,rgba(204,170,170,1.00) 84.46%,rgba(166,99,100,1.00) 100%);
+    background-image: url(url), -o-linear-gradient(270deg,rgba(166,99,100,1.00) 0%,rgba(204,170,170,1.00) 17.62%,rgba(204,170,170,1.00) 84.46%,rgba(166,99,100,1.00) 100%);
+    background-image: url(url), linear-gradient(180deg,rgba(166,99,100,1.00) 0%,rgba(204,170,170,1.00) 17.62%,rgba(204,170,170,1.00) 84.46%,rgba(166,99,100,1.00) 100%);
+}
+
+
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: rgba(0,0,0,1.00);
+}
+#accordion1 .card #headingOne1 {
+    background-color: rgba(0,0,0,1.00);
+}
+#accordion1 .card #headingTwo1 {
+    background-color: rgba(0,0,0,1.00);
+}
+#accordion1 .card #headingThree1 {
+    background-color: rgba(0,0,0,1.00);
+}
+#headingOne1 .mb-0 a {
+    color: rgba(255,255,255,1.00);
+}
+#headingTwo1 .mb-0 a {
+    color: rgba(255,255,255,1.00);
+}
+#headingThree1 .mb-0 a {
+    color: rgba(255,255,255,1.00);
+}
